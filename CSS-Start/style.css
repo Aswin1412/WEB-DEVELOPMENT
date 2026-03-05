@@ -1,0 +1,37 @@
+/* h1{
+    color:blue;
+    background-color: grey;
+}
+p{
+    color:red;
+    background-color: cornsilk;
+}
+
+button {
+    color:gold;
+    background: black;
+} */
+h1{
+    text-align: center;
+    text-decoration: blue wavy underline;
+    letter-spacing: normal;
+    font-size: 50px;
+    font-family: arial;
+}
+h3{
+    text-align: center;
+}
+h2{
+    font-weight: 800;
+}
+p{
+    text-align: justify;
+    font-weight: 400;
+    line-height: 2.5;
+    letter-spacing: 2.5px;
+    font-size:15px;
+    font-family: impact;
+}
+a{
+    text-decoration: none
+}
